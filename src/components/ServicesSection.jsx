@@ -1,31 +1,122 @@
 import { motion } from "framer-motion";
 
 const services = [
+
   {
     number: "01",
-    title: "Corporate Law",
-    desc: "Professional legal solutions for startups and enterprises.",
+    title: "GST Registration",
+    desc: "Complete GST registration assistance for businesses and startups.",
   },
 
   {
     number: "02",
-    title: "Family Law",
-    desc: "Trusted guidance for sensitive family legal matters.",
+    title: "ITR Filing",
+    desc: "Accurate and hassle-free income tax return filing services.",
   },
 
   {
     number: "03",
-    title: "Property Law",
-    desc: "Secure legal support for property and real estate matters.",
+    title: "Accounting",
+    desc: "Professional accounting solutions for businesses and individuals.",
   },
 
   {
     number: "04",
-    title: "Criminal Defense",
-    desc: "Strong legal representation and defense strategies.",
+    title: "Company Registration",
+    desc: "Fast and reliable company incorporation and registration services.",
   },
-];
 
+  {
+    number: "05",
+    title: "Income Tax Compliance",
+    desc: "Ensure full compliance with taxation and financial regulations.",
+  },
+
+  {
+    number: "06",
+    title: "Firm Registration",
+    desc: "Registration services for partnership firms and business entities.",
+  },
+
+  {
+    number: "07",
+    title: "GST Filing",
+    desc: "Monthly and annual GST return filing handled professionally.",
+  },
+
+  {
+    number: "08",
+    title: "Pvt. Ltd Registration",
+    desc: "Private limited company registration with complete documentation.",
+  },
+
+  {
+    number: "09",
+    title: "LLP Registration",
+    desc: "Limited Liability Partnership registration made simple and quick.",
+  },
+
+  {
+    number: "10",
+    title: "Trade Mark Registration",
+    desc: "Protect your brand identity with trademark registration services.",
+  },
+
+  {
+    number: "11",
+    title: "IPO Planning",
+    desc: "Strategic IPO planning and financial advisory for growing businesses.",
+  },
+
+  {
+    number: "12",
+    title: "Business Growth Consulting",
+    desc: "Expert consulting to help scale and grow your business efficiently.",
+  },
+
+  {
+    number: "13",
+    title: "Business Startup Services",
+    desc: "Complete startup guidance from registration to financial planning.",
+  },
+
+  {
+    number: "14",
+    title: "Business Tax Planning",
+    desc: "Smart tax planning strategies to optimize business finances.",
+  },
+
+  {
+    number: "15",
+    title: "Financial Advising",
+    desc: "Professional financial guidance for businesses and individuals.",
+  },
+
+  {
+    number: "16",
+    title: "Individual Tax Planning",
+    desc: "Personalized tax planning solutions for individuals and professionals.",
+  },
+
+  {
+    number: "17",
+    title: "Tax Resolution Services",
+    desc: "Representation and resolution support for tax authority matters.",
+  },
+
+  {
+    number: "18",
+    title: "Payroll Accounting",
+    desc: "Efficient payroll management and accounting services for companies.",
+  },
+
+  {
+    number: "19",
+    title: "Trusts & Estates Accounting",
+    desc: "Accounting and financial management for trusts and estates.",
+  },
+
+];
 /* ===================================== */
 /* ANIMATION VARIANTS */
 /* ===================================== */
@@ -134,7 +225,7 @@ export default function ServicesSection() {
         "
         >
 
-          Premium Legal Services Designed For Modern Clients.
+          Premium Services Designed For Modern Clients.
 
         </motion.h2>
 

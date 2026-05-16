@@ -1,23 +1,43 @@
 import { motion } from "framer-motion";
 
 const steps = [
+
   {
     number: "01",
-    title: "Initial Consultation",
-    desc: "We understand your legal situation and define the best strategy.",
+    title: "Business Consultation",
+    desc: "We understand your business structure, taxation requirements and long-term financial goals.",
   },
 
   {
     number: "02",
-    title: "Case Analysis",
-    desc: "Our legal experts deeply analyze every detail and evidence.",
+    title: "Documentation & Registration",
+    desc: "Our experts handle registrations, filings and compliance documentation professionally.",
   },
 
   {
     number: "03",
-    title: "Legal Execution",
-    desc: "We execute a strong and transparent legal process for clients.",
+    title: "Tax & Compliance Planning",
+    desc: "We create strategic tax planning and compliance solutions tailored for your business.",
   },
+
+  {
+    number: "04",
+    title: "Financial Structuring",
+    desc: "Professional accounting, payroll and financial advisory services for sustainable growth.",
+  },
+
+  {
+    number: "05",
+    title: "Business Growth Strategy",
+    desc: "We help startups and enterprises scale with optimized financial and taxation strategies.",
+  },
+
+  {
+    number: "06",
+    title: "Long-Term Support",
+    desc: "Continuous support for compliance, tax filings, audits and business consulting services.",
+  },
+
 ];
 
 export default function ProcessSection() {
@@ -89,7 +109,7 @@ export default function ProcessSection() {
         "
         >
 
-          A Clear And Modern Approach To Legal Solutions.
+          Smart Financial, Taxation And Business Solutions For Modern Enterprises.
 
         </motion.h2>
 

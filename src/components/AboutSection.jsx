@@ -68,7 +68,7 @@ export default function AboutSection() {
         "
         >
 
-          We simplify legal processes with modern technology and trusted legal expertise.
+          Helping Businesses Simplify Taxation, Compliance And Financial Growth.
 
         </motion.h2>
 
@@ -97,9 +97,7 @@ export default function AboutSection() {
           className="text-white/60 text-lg md:text-xl leading-relaxed mt-12 max-w-3xl"
         >
 
-          Our legal team combines years of expertise with modern communication
-          and transparent workflows to deliver exceptional legal services
-          for individuals, startups and enterprises.
+          We provide modern accounting, taxation, GST, registration and financial consulting solutions tailored for startups, businesses and professionals.
 
         </motion.p>
 

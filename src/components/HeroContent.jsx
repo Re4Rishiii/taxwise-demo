@@ -39,14 +39,12 @@ export default function HeroContent() {
       "
       >
 
-        Law Made
+        Modern Taxation &
         <br />
-        Simple,
+       Business 
         <br />
-        Experts Help
+        Solutions
         <br />
-        Anytime.
-
       </h1>
 
     </motion.div>

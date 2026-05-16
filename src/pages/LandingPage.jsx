@@ -69,9 +69,7 @@ export default function LandingPage() {
                   className="text-white/70 text-base md:text-xl leading-relaxed max-w-[520px] mt-8"
                 >
 
-                  Modern legal solutions designed for businesses,
-                  startups and individuals who value speed,
-                  transparency and trusted expertise.
+                  Professional taxation, accounting, GST and business registration services designed for startups, enterprises and growing businesses.
 
                 </motion.p>
 
