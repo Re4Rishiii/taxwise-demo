@@ -2,7 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 html {
+<<<<<<< HEAD
   scroll-behavior: smooth;
+=======
+	scroll-behavior: smooth;
+>>>>>>> 8d4769521aace420a84f9a462676e80d553eed25
 }
 html.lenis,
 html.lenis body {
